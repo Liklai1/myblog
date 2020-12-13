@@ -1,0 +1,26 @@
+body {
+  text-align:center;
+  background-color: #ADD8E6;
+  
+     
+}
+H2 {
+  text-shadow : 2px 2px;
+  font-size: 20px;
+}
+img
+{
+  border-radius: 50px;
+  width: 100px;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    cursor: pointer;
+    color: black;
+    
+}
+
+
